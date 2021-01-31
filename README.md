@@ -2,7 +2,7 @@
 
 ### Language used : Python
 
-### Libraries used : Numpy, PIL, Flask, Tensorflow, Image
+### Libraries used : Numpy, PIL, Flask, Tensorflow, Image, FastAPI
 
 ## Introduction 
 
@@ -14,7 +14,7 @@ The model which can be found in MNIST_MODEL.ipynb jupyter notebook uses tensorfl
 
 ## App 
 
-The app.py is created using Flask API. This app was tested using POSTMAN API.
+The app.py is created using Flask API and FAST API . This app was tested using POSTMAN API.
 Please find the screenshot below.
 
 
@@ -23,4 +23,13 @@ Please find the screenshot below.
 
 ## Result
 
+### Using Postman
+
 ![image](postmanAPI.png)
+
+
+
+
+### Using Flask
+![image](fastAPI.png)
+
